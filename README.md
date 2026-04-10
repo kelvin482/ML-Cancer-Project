@@ -45,6 +45,7 @@ python train_model.py
 python predict.py --input "sample_input.csv"
 🎨 How It Works
 text
+
 WBCD Dataset → train_model.py → model.pkl + scaler.pkl
                            ↓
                     predict.py → Cancer Risk Prediction
