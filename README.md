@@ -48,6 +48,7 @@ python predict.py --input "sample_input.csv"
 text
 
 WBCD Dataset → train_model.py → model.pkl + scaler.pkl
+
                            ↓
                     predict.py → Cancer Risk Prediction
 💡 Best Practices
