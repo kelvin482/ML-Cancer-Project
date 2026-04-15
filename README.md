@@ -17,7 +17,6 @@ Production Ready: Reusable components for consistent preprocessing
 
 📁 Project Structure
 text
-
 MLcancerproject/
 ├── model.pkl              # Trained ML model
 ├── scaler.pkl             # Preprocessing scaler
